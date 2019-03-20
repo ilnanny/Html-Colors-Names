@@ -1,27 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<!-- saved from url=(0073)file:///tmp/lu31684gqvsb8.tmp/lu31684gqvsbc.tmp/html%20colors%20names.htm -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	
-	<title></title>
-	<meta name="generator" content="LibreOffice 6.1.5.2 (Linux)">
-	<meta name="created" content="2019-03-20T05:33:15.925581077">
-	<meta name="changed" content="2019-03-20T06:01:57.211726168">
-	<style type="text/css">
-		@page { size: 21cm 29.7cm; margin: 2cm }
-		p { margin-bottom: 0.25cm; line-height: 115%; background: transparent }
-		a:link { color: #000080; so-language: zxx; text-decoration: underline }
-		strong { font-weight: bold }
-		a:visited { color: #800000; so-language: zxx; text-decoration: underline }
-	</style>
-</head>
-<body lang="it-IT" link="#000080" vlink="#800000" dir="ltr">
-<div title="header"><p align="right" style="margin-bottom: 0.5cm; line-height: 100%">
-	<font color="#5983b0"><font size="2" style="font-size: 10pt">@ 2012
-	– 2019 cristian pozzessere  &lt; ilnanny &gt;</font></font></p>
-</div><p lang="ie" style="margin-bottom: 0cm; font-style: normal; line-height: 100%">
-<br>
 
-</p>
 <table width="299" cellpadding="0" cellspacing="0" bgcolor="#fcfcfc" style="background: #fcfcfc">
 	<colgroup><col width="87">
 

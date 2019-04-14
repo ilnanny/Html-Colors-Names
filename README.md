@@ -1,2 +1,2 @@
 # Html-Colors-Names
-Names of colors html
+Names of html colors
